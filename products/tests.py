@@ -26,6 +26,7 @@ class WishListTest(TestCase):
         access_token = jwt.encode({'user_id' : 1}, SECRET_KEY, ALGORITHMS)
         headers      = {'HTTP_AUTHORIZATION': access_token}
 
+    def tearDown(self):
         Wishlist.objects.all().delete()
         ProductImage.objects.all().delete()
 
