@@ -22,9 +22,6 @@
  👨‍👧‍👦 **Back-End** 3명 : [박치훈](https://github.com/chihunmanse), [양가현](https://github.com/chrisYang256), [송영록](https://github.com/crescentfull)<br/>
 - [Back-end github 링크](https://github.com/wecode-bootcamp-korea/25-2nd-SUNKREAM-backend)
 
-## 🎬 프로젝트 구현 영상
-
-- 🔗 [영상 링크] : 추후 재업데이트 예정
 
 ## ⚙ 적용 기술
 - **Front-End** : HTML5, CSS3, React, SASS, JSX
